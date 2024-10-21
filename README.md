@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O futuro dahumanidade com as IAs
 
 ## 📒 E-Book sobre o futuro com as IAs
 A Inteligência Artificial (IA) está moldando o nosso futuro de maneiras profundas e inesperadas. Da automação de tarefas complexas à criação de novas formas de arte, a IA está se tornando cada vez mais presente em nossas vidas. Em um futuro próximo, podemos esperar um mundo mais inteligente, personalizado e interconectado, onde máquinas e humanos colaboram para resolver problemas complexos e impulsionar o progresso. No entanto, é fundamental que a IA seja desenvolvida de forma ética e responsável, garantindo que seus benefícios sejam acessíveis a todos e que os riscos sejam mitigados.
